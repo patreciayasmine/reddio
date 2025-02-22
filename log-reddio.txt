@@ -42,3 +42,7 @@ Error:
 Error:
 [09:15:00 | 21-02-2025] Transfer Task failed for 0x6C213801D69dB44F7fc844c15A0F9B6BFBf38062: Request failed with status code 400
 [09:15:02 | 21-02-2025] Bridge Task failed for 0x6C213801D69dB44F7fc844c15A0F9B6BFBf38062: Request failed with status code 400
+Error:
+Error:
+[09:10:44 | 22-02-2025] Transfer Task failed for 0x6C213801D69dB44F7fc844c15A0F9B6BFBf38062: Request failed with status code 400
+[09:10:47 | 22-02-2025] Bridge Task failed for 0x6C213801D69dB44F7fc844c15A0F9B6BFBf38062: Request failed with status code 400
